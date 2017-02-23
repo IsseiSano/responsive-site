@@ -87,13 +87,13 @@ header .site-title {
     color: #006400; }
 header .profile-icon {
   width: 100%;
-  height: 500px; }
+  height: 250px; }
 header p {
   font-size: 1.6rem; }
 
 @media (min-width: 769px) {
-  　.profile-icon {
-    height: 250px; }
+header .profile-icon {
+    height: 500px; }
 
   /* Header
   ------------------------------------------------------------*/

@@ -331,7 +331,7 @@ section {
       height: 50px;
       color: #FFF; 
       background-color: $keyColor;
-      @include border-radius(50%);
+      @include border-radius(30%);
       &:hover {
         background-color: darken($keyColor, 10%); 
       }
